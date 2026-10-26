@@ -6,7 +6,7 @@
   <strong>Web &amp; Mobile Developer · Padang, Indonesia</strong><br />
   I build web, mobile, and backend applications—and improve codebases that are already in use.<br />
   <a href="https://rynsp.github.io/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ryan-syahputera-b101ba107/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/ryan-syahputera">LinkedIn</a> ·
   <a href="mailto:ryan93sp@gmail.com">Email</a>
 </p>
 
@@ -44,7 +44,7 @@
 ### Get in Touch
 
 - **Portfolio:** [rynsp.github.io](https://rynsp.github.io/)
-- **LinkedIn:** [Ryan Syahputera](https://www.linkedin.com/in/ryan-syahputera-b101ba107/)
+- **LinkedIn:** [Ryan Syahputera](https://www.linkedin.com/in/ryan-syahputera)
 - **Email:** [ryan93sp@gmail.com](mailto:ryan93sp@gmail.com)
 
 ---
